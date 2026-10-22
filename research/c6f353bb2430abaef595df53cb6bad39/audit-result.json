@@ -1,0 +1,9 @@
+{
+  "case": "maze-32-32-4-n128",
+  "agents": 128,
+  "individual_distance_bound": 5926,
+  "verified_disjoint_pair_witnesses": 43,
+  "pair_conflict_bound": 5969,
+  "incumbent_sol": 7815,
+  "remaining_sol_gap": 1846
+}
